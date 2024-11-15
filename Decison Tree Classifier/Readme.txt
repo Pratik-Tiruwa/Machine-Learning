@@ -14,4 +14,10 @@ data = {
  ↪'Yes', 'Yes', 'Yes', 'Yes', 'No']
  }
 
-and This is the data
+sample_input = {
+    'Outlook' : ['Sunny'],
+    'Temperature' : ['Cool'], 
+    'Humidity' : ['High'],
+    'Wind' : ['Weak']
+}
+
